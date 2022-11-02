@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/API Demos for Android_v1.9.0_apkpure.com.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/Amazon Shopping Search Find Ship and Save_v22.2.0.100_apkpure.com.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/Calculator.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/General-Store.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/Mobile Testing_v2.10.0.3_apkpure.com.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/Modanisa Modest Fashion Shopping_v2.7.38_apkpure.com.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/apiDemos.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/etsy.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apps/gestureTool.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Appium02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Appium03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Appium04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Appium05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Appium06Chorme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Appium1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GwhOxraXW8BwU6INWIlCIYb0MQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/IdeaProjects/appiumProject/src/Apps&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\appiumProject\src\Apps" />
+      <recent name="C:\Users\Administrator\IdeaProjects\appiumProject\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Appium06Chorme.test01">
+    <configuration name="Appium03.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Appium03" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appium04" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Appium04" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appium05.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Appium05" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appium06Chorme" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Appium06Chorme" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appium06Chorme.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Appium06Chorme" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Appium06Chorme.test01" />
+        <item itemvalue="TestNG.Appium06Chorme" />
+        <item itemvalue="TestNG.Appium05.test01" />
+        <item itemvalue="TestNG.Appium04" />
+        <item itemvalue="TestNG.Appium03.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="" />
+      <created>1667305527279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667305527279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
