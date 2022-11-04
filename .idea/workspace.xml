@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Apps/APKPure_v3.18.39_apkpure.com.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Appium08UiAutomatorViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Appium09Uiselector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Appium10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appıum12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/AppiumBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Appium1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium06Chorme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium06Chorme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium07Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium07Chrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium08UiAutomatorViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium08UiAutomatorViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium09Uiselector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium09Uiselector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Appium10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +51,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/IdeaProjects/appiumProject/src/Apps&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -55,22 +65,11 @@
       <recent name="C:\Users\Administrator\IdeaProjects\appiumProject\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Appium10.test01">
-    <configuration name="Appium08UiAutomatorViewer" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Appıum12.test01">
+    <configuration name="Appium09Uiselector.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Appium08UiAutomatorViewer" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Appium09Uiselector.test01 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appiumProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Appium09Uiselector" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium09Uiselector" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -82,7 +81,7 @@
     <configuration name="Appium09Uiselector.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Appium09Uiselector" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium09Uiselector" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -94,7 +93,7 @@
     <configuration name="Appium10.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Appium10" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium10" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -103,10 +102,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Appium1.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Appium11.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Appium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appium" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium11" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appıum12.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appium" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appıum12" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -117,11 +140,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Appıum12.test01" />
+        <item itemvalue="TestNG.Appium11.test01" />
         <item itemvalue="TestNG.Appium10.test01" />
         <item itemvalue="TestNG.Appium09Uiselector.test01" />
-        <item itemvalue="TestNG.Appium09Uiselector.test01 (1)" />
-        <item itemvalue="TestNG.Appium1.test01" />
-        <item itemvalue="TestNG.Appium08UiAutomatorViewer" />
       </list>
     </recent_temporary>
   </component>
