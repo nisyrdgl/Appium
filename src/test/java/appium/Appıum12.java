@@ -2,6 +2,7 @@ package appium;
 
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.AppiumBase;
 
@@ -24,21 +25,27 @@ public class Appıum12 extends AppiumBase {
         driver.findElementByAndroidUIAutomator("UiSelector().className(\"android.widget.TextView\").text(\"5. Preferences from code\")").click();
         Thread.sleep(2000);
         //Checkbox preference ve onayla
-
-        String isChecked = driver.findElementByAndroidUIAutomator("UiSelector().resourceId(\"android:id/checkbox\").checkable(true)").getAttribute("checked");
-        System.out.println(isChecked+" <===========");
-        if(isChecked.equals("false")) {
-            driver.findElementById("android:id/checkbox").click();
-            System.out.println("if calisti");
+        //1.yol
+       List<MobileElement> check=driver.findElementsByXPath("(//android.widget.CheckBox)[1]");
+        System.out.println(check.size());
+        System.out.println(check.get(0).getAttribute("checked"));
+        if(check.get(0).getAttribute("checked").equals("false")){
+            check.get(0).click();
+        }else {
+            Assert.assertEquals(check.get(0).getAttribute("checked"),"true");
         }
+
+
+
 
         Thread.sleep(2000);
         //Edit text preference tikla
         driver.findElementByAndroidUIAutomator("UiSelector().className(\"android.widget.TextView\").text(\"Edit text preference\")").click();
         Thread.sleep(2000);
-        //Metin gonder ve tamam tikla
+        //Metin varsa sil
         driver.findElementById("android:id/edit").clear();
         Thread.sleep(2000);
+        //Metin gonder ve tamam tikla
         driver.findElementById("android:id/edit").sendKeys("Esat");
         Thread.sleep(2000);
         driver.findElementByXPath("//android.widget.Button[@text='TAMAM']").click();

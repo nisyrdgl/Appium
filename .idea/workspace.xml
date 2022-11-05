@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appıum12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/AppiumBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium06Chorme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium06Chorme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium07Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium07Chrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium08UiAutomatorViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium08UiAutomatorViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium09Uiselector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium09Uiselector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Appium10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appıum12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appıum12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
