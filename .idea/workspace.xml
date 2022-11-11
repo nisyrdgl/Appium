@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium12Scroll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appıum12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appıum12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,44 +53,8 @@
       <recent name="C:\Users\Administrator\IdeaProjects\appiumProject\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Appıum12.test01">
-    <configuration name="Appium09Uiselector.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appiumProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appium09Uiselector" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Appium09Uiselector.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appiumProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appium09Uiselector" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Appium10.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appiumProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appium10" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Appium11.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Appium12Scroll.test02">
+    <configuration name="Appium03.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <extension name="coverage">
         <pattern>
@@ -98,7 +63,61 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="appium" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appium11" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium03" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appium12Scroll.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appium" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium12Scroll" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appium12Scroll.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appium" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium12Scroll" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Appium1.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appium" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium1" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -127,10 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Appium12Scroll.test02" />
+        <item itemvalue="TestNG.Appium12Scroll.test01" />
+        <item itemvalue="TestNG.Appium03.test01" />
+        <item itemvalue="TestNG.Appium1.test01" />
         <item itemvalue="TestNG.Appıum12.test01" />
-        <item itemvalue="TestNG.Appium11.test01" />
-        <item itemvalue="TestNG.Appium10.test01" />
-        <item itemvalue="TestNG.Appium09Uiselector.test01" />
       </list>
     </recent_temporary>
   </component>
