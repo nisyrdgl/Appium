@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="11/11/2022">
-      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium16BSSauceApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appium15BrowserStackIOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium15BrowserStackIOS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appium16BSSauceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium16BSSauceApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,25 +52,7 @@
       <recent name="C:\Users\Administrator\IdeaProjects\appiumProject\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Appium15BrowserStackIOS.test01">
-    <configuration name="Appium03.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="appiumProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="appium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="appium" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appium03" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Appium16BSSauceApp.test01">
     <configuration name="Appium13Scroll.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <extension name="coverage">
@@ -144,13 +125,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Appium16BSSauceApp.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appium" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium16BSSauceApp" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Appium16BSSauceApp.test01" />
         <item itemvalue="TestNG.Appium15BrowserStackIOS.test01" />
         <item itemvalue="TestNG.Appium14BrowserStackAndroid.test01" />
         <item itemvalue="TestNG.Appium13Scroll.test02" />
         <item itemvalue="TestNG.Appium13Scroll.test01" />
-        <item itemvalue="TestNG.Appium03.test01" />
       </list>
     </recent_temporary>
   </component>

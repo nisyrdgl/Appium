@@ -9,7 +9,7 @@ import utilities.AppiumBase;
 import java.net.MalformedURLException;
 import java.util.List;
 
-public class Appıum12 extends AppiumBase {
+public class Appium12 extends AppiumBase {
 
 
     @Test
