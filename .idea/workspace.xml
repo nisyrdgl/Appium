@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="11/11/2022">
-      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium14BrowserStackAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium15BrowserStackIOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium16BSSauceApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appium12Scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium13Scroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appium15BrowserStackIOS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium15BrowserStackIOS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

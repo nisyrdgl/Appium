@@ -69,5 +69,47 @@ public class Appium15BrowserStackIOS {
         // Invoke driver.quit() after the test is done to indicate that the test is completed.
         driver.quit();
     }
+
+    @Test
+    public void testAllert() throws MalformedURLException {
+        DesiredCapabilities caps = new DesiredCapabilities();
+
+        // Set your access credentials
+        caps.setCapability("browserstack.user", "xowat_OMivft");
+        caps.setCapability("browserstack.key", "NBPsc9K2rrZr1Usb3r96");
+
+        // Set URL of the application under test
+        caps.setCapability("app", "bs://444bd0308813ae0dc236f8cd461c02d3afa7901d");
+
+        // Specify device and os_version for testing
+        caps.setCapability("device", "iPhone XS");
+        caps.setCapability("os_version", "12");
+
+
+        // Set other BrowserStack capabilities
+        caps.setCapability("project", "First Java Project");
+        caps.setCapability("build", "browserstack-build-1");
+        caps.setCapability("name", "first_test");
+
+
+        // Initialise the remote Webdriver using BrowserStack remote URL
+        // and desired capabilities defined above
+        IOSDriver<IOSElement> driver = new IOSDriver<IOSElement>(
+                new URL("http://hub-cloud.browserstack.com/wd/hub"), caps);
+
+        // Test case for the BrowserStack sample iOS app.
+        // If you have uploaded your app, update the test case here.
+
+        //Allert butonunu tıkla
+        driver.findElementByAccessibilityId("Alert Button").click();
+        //Allert yazısını assert et
+        Assert.assertEquals(driver.findElementByXPath("//XCUIElementTypeStaticText[@name=\"Alert\"]").getText(), "Alert");
+        //ok butonuna tıkla
+        driver.findElementByXPath("//XCUIElementTypeButton[@name=\"OK\"]").click();
+
+
+        // Invoke driver.quit() after the test is done to indicate that the test is completed.
+        driver.quit();
+    }
 }
 
