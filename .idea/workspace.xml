@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium12Scroll.java" afterDir="false" />
+    <list default="true" id="f4db7b49-9f57-4d15-b8c4-310ad6a0ed27" name="Changes" comment="11/11/2022">
+      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium14BrowserStackAndroid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appium/Appium15BrowserStackIOS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/appium/Appium12Scroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/appium/Appium13Scroll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="C:\Users\Administrator\IdeaProjects\appiumProject\src" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Appium12Scroll.test02">
+  <component name="RunManager" selected="TestNG.Appium15BrowserStackIOS.test01">
     <configuration name="Appium03.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <extension name="coverage">
@@ -72,7 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Appium12Scroll.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Appium13Scroll.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <extension name="coverage">
         <pattern>
@@ -81,7 +82,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="appium" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appium12Scroll" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium13Scroll" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -90,7 +91,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Appium12Scroll.test02" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Appium13Scroll.test02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <extension name="coverage">
         <pattern>
@@ -99,7 +100,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="appium" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appium12Scroll" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium13Scroll" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -108,7 +109,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Appium1.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Appium14BrowserStackAndroid.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <extension name="coverage">
         <pattern>
@@ -117,7 +118,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="appium" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appium1" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium14BrowserStackAndroid" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -126,7 +127,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Appıum12.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Appium15BrowserStackIOS.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="appiumProject" />
       <extension name="coverage">
         <pattern>
@@ -135,7 +136,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="appium" />
-      <option name="MAIN_CLASS_NAME" value="appium.Appıum12" />
+      <option name="MAIN_CLASS_NAME" value="appium.Appium15BrowserStackIOS" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Appium12Scroll.test02" />
-        <item itemvalue="TestNG.Appium12Scroll.test01" />
+        <item itemvalue="TestNG.Appium15BrowserStackIOS.test01" />
+        <item itemvalue="TestNG.Appium14BrowserStackAndroid.test01" />
+        <item itemvalue="TestNG.Appium13Scroll.test02" />
+        <item itemvalue="TestNG.Appium13Scroll.test01" />
         <item itemvalue="TestNG.Appium03.test01" />
-        <item itemvalue="TestNG.Appium1.test01" />
-        <item itemvalue="TestNG.Appıum12.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +164,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667305527279</updated>
     </task>
+    <task id="LOCAL-00001" summary="11/11/2022">
+      <created>1668196841955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668196841955</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,5 +184,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11/11/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/11/2022" />
   </component>
 </project>

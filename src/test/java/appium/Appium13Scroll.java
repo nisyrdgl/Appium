@@ -11,7 +11,7 @@ import utilities.AppiumBase;
 import java.net.MalformedURLException;
 import java.time.Duration;
 
-public class Appium12Scroll extends AppiumBase {
+public class Appium13Scroll extends AppiumBase {
 
 
     @Test
